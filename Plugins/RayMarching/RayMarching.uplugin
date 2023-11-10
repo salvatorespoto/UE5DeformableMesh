@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RayMarching",
+	"Description": "Ray Marching Pluging",
+	"Category": "Other",
+	"CreatedBy": "Francesco Salvatore Spoto",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RayMarchingModule",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
