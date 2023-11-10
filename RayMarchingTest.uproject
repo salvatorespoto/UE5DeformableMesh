@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E50E7643-46B0-A5E4-7039-FDB81999EA79}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RayMarchingTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "RayMarching",
+			"Enabled": true
+		}
+	]
+}
